@@ -4,5 +4,6 @@
 # In[ ]:
 
 
-Print ('Hallo Dunia!')
-Print ('Belajar AI!')
+Print ('Hallo Orbit!')
+Print ('Belajar ML!')
+Print ('Yes!')
