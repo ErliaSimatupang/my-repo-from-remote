@@ -5,4 +5,4 @@
 
 
 Print ('Hallo Dunia!')
-
+Print ('Belajar AI!')
